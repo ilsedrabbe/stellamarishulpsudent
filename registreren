@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>index</title>
+</head>
+<body>
+
+  <body>
+<h1>dit is een programma waarbij leerlingen en leraren elkaar kunnen helpen met leren<br>
+  en waar docenten uitleg kunnen geven</h1> 
+
+<UL>
+<LI> <a HREF="niveau/havo.html" target="blank">havo</A><br><br></LI>
+<li> <a href="niveau/vwo.html" target="blank"> vwo</a><br></li><br>
+<li> <a HREF="leren.html" target="blank"> hoe moet je leren en handige sites om te leren<br><br></li>
+<li> <a href="media/plattegrond.pdf" target="blank"> plattegrond school</a> <br><br> </li>
+<li> <a href="media/lestijden.pdf" target="blank"> lestijden</a> <br> <br></li>
+<li> <a href="https://www.stellamariscollege.nl/" target="blank"> stella maris college</a> <br><br></li>
+</UL>
+
+</body>
+</body>
+</html>
